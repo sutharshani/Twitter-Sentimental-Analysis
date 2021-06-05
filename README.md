@@ -58,7 +58,7 @@ You will need the following applications to execute this project-
 [back to top](#table-of-contents)
 
 ## Project Status
-We were able to classify tweet sentiment with good accuracy \
+We were able to classify tweet sentiment with good accuracy. \
 [back to top](#table-of-contents)
 
 ## Versioning
